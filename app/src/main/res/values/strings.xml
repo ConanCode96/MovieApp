@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="popular">Popular Movies</string>
+    <string name="top_rated">Top-Rated</string>
+    <string name="favorite">Favorites</string>
+    <string name="share_action">Share</string>
+
+</resources>
